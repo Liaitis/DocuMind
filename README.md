@@ -6,6 +6,8 @@
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?style=for-the-badge&logo=googlebard&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 
+<img width="1536" height="1024" alt="ChatGPT Image Jun 30, 2026, 12_56_11 PM" src="https://github.com/user-attachments/assets/edb6a146-8e5c-4d4a-bcb1-37476da2b450" />
+
 ---
 
 ## Features
